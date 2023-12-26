@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: M. Muzamil Khan
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: M. Muzamil 
+last_name: Khan
 
 # Status emoji
 status:
@@ -17,34 +17,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate, Bioinformatics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Boston University
+    url: https://www.bu.edu/bioinformatics
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include multi-omic data integration and analysis of oral and lung malignancies.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computataional Biology
+  - Bioinformatics
+  - Machine Learning and AI
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Bioinformatics
+      institution: Boston University
+      year: ''
+    - course: MS in Bioinformatics
+      institution: Boston University
+      year: 2019
+    - course: BE in Computer Science and Engineering
+      institution: CMR Institute of Technology, India
+      year: 2014
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +120,6 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a fifth-year PhD candidate in the Bioinformatics program at BU working with Dr. Stefano Monti on multi-modal data analysis and integration using various 'omics' data in the context of oncology specifically oral and lung malignancies. My projects include (i) characterization of oral pre-malignant lesions (PML) with total transcriptomics sequencing (host+microbial), 
+(ii) drug treatment to murine oral tumors with single-cell profiling, and (iii) gene editing in murine lung tumors. I also enjoy developing toolkits for a quick and easy downstream analysis.
 {style="text-align: justify;"}
