@@ -46,7 +46,6 @@ education:
       institution: CMR Institute of Technology, India
       year: 2014
 
-# Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 
 # Social/Academic Networking
