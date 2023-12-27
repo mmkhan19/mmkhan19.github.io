@@ -66,35 +66,6 @@ sections:
           company: GenCoin
           company_url: ''
           company_logo: org-gc
-<<<<<<< HEAD
-          location: Massachusetts
-          date_start: June 2020
-          date_end: ''
-          description: |2-
-              Led five data-intensive research projects to completion by publishing four publications in high-impact journals.
-        - title: Scientific Programmer @<a href = https://www.bu.edu/hic/profile/evan-johnson/> Johnson Lab </a>
-          company: Boston University Chobanian & Avedisian School of Medicine
-          company_url: ''
-          company_logo: org-x
-          location: Massachusetts
-          date_start: May 2018
-          date_end: June 2019
-          description: |2-
-              Co-developed <i> sctk </i>: a single-cell analysis toolkit with a user interface to ease downstream analyses.
-              Experienced in code release management and maintenance specifically for Bioconductor R packages
-     - title: Software Analyst
-          company: Accenture Services Pvt Ltd.
-          company_url: ''
-          company_logo: org-x
-          location: Bangalore
-          date_start: November 2014
-          date_end: July 2017
-          description: |2-
-               Developed Selenium and Jenkins automated testing suite for code sanity checks in remote environments, increased performance by 33%,
-               and halved FTE using Agile/SCRUM methodology
-        design:
-      columns: '3'
-=======
           location: California
           date_start: '2021-01-01'
           date_end: ''
@@ -114,7 +85,6 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
->>>>>>> parent of 0acbc1d (Update _index.md)
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
