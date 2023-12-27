@@ -59,7 +59,7 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: Massachusetts
-          date_start: '2020-06-01'
+          date_start: June 2020
           date_end: ''
           description: |2-
              * Led five data-intensive research projects to completion by publishing four publications in high-impact journals.
@@ -68,8 +68,8 @@ sections:
           company_url: ''
           company_logo: org-x
           location: Massachusetts
-          date_start: '2018-06-01'
-          date_end: '2019-05-31'
+          date_start: May 2018
+          date_end: June 2019
           description: |2-
               * Co-developed <i> sctk </i>: a single-cell analysis toolkit with a user interface to ease downstream analyses.
               * Experienced in code release management and maintenance specifically for Bioconductor R packages
@@ -78,8 +78,8 @@ sections:
           company_url: ''
           company_logo: org-x
           location: Bangalore
-          date_start: '2014-11-01'
-          date_end: '2017-07-31'
+          date_start: November 2014
+          date_end: July 2017
           description: |2-
              * Developed Selenium and Jenkins automated testing suite for code sanity checks in remote environments, increased performance by 33%,
                and halved FTE using Agile/SCRUM methodology
