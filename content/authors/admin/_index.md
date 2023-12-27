@@ -48,38 +48,6 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: R Programming Language
-        description: ''
-        percent: 95
-        icon: researcherid
-        icon_pack: ai
-     - name: Python
-        description: ''
-        percent: 60
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Painting
-        description: ''
-        percent: 60
-        icon: palette
-        icon_pack: fas
-      - name: Cooking
-        description: ''
-        percent: 100
-        icon: couldron
-        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
