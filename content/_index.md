@@ -67,22 +67,20 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: California
-          date_start: '2021-01-01'
+          date_start: '2020-06-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Led five data-intensive research projects to completion by publishing four publications in high-impact journals.
+        - title: Scientific Programmer @<a href = https://www.bu.edu/hic/profile/evan-johnson/> Johnson Lab </a>
+          company: Boston University Chobanian & Avedisian School of Medicine
           company_url: ''
           company_logo: org-x
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              * Co-developed <i> sctk </i>: a single-cell analysis toolkit with a user interface to ease downstream analyses.
+              * Experienced in code release management and maintenance specifically for Bioconductor R packages
     design:
       columns: '2'
   - block: accomplishments
