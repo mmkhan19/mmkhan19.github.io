@@ -87,7 +87,7 @@ sections:
           company_logo: org-x
           location: California
           date_start: '2018-06-01'
-          date_end: '2019-06-31'
+          date_end: '2019-07-31'
           description: |2-
               * Developed Selenium and Jenkins automated testing suite for code sanity checks in remote environments, increased performance by 33%,
                 and halved FTE using Agile/SCRUM methodology
