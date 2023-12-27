@@ -55,7 +55,7 @@ skills:
         description: ''
         percent: 95
         icon: researcherid
-        icon_pack: fab
+        icon_pack: academicons
      - name: Python
         description: ''
         percent: 60
