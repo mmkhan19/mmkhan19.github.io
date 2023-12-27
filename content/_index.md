@@ -42,6 +42,14 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: skills
+    content:
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
   - block: experience
     content:
       title: Experience
@@ -54,10 +62,11 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Graduate Student Researcher @<a href = https://www.bumc.bu.edu/compbiomed/labs/monti/> Monti Lab </a>
-          company: Boston University Chobanian & Avedisian School of Medicine
+        - title: CEO
+          company: GenCoin
           company_url: ''
           company_logo: org-gc
+<<<<<<< HEAD
           location: Massachusetts
           date_start: June 2020
           date_end: ''
@@ -85,6 +94,27 @@ sections:
                and halved FTE using Agile/SCRUM methodology
         design:
       columns: '3'
+=======
+          location: California
+          date_start: '2021-01-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
+    design:
+      columns: '2'
+>>>>>>> parent of 0acbc1d (Update _index.md)
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
