@@ -42,14 +42,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
   - block: experience
     content:
       title: Experience
@@ -62,27 +54,34 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Graduate Student Researcher @<a href = https://www.bumc.bu.edu/compbiomed/labs/monti/> Monti Lab </a>
+          company: Boston University Chobanian & Avedisian School of Medicine
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Massachusetts
+          date_start: '2020-06-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+             * Led five data-intensive research projects to completion by publishing four publications in high-impact journals.
+        - title: Scientific Programmer @<a href = https://www.bu.edu/hic/profile/evan-johnson/> Johnson Lab </a>
+          company: Boston University Chobanian & Avedisian School of Medicine
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Massachusetts
+          date_start: '2018-06-01'
+          date_end: '2019-05-31'
+          description:
+              * Co-developed <i> sctk </i>: a single-cell analysis toolkit with a user interface for ease of downstream analysis.
+              * Experienced in code release management and maintenance specifically for Bioconductor R packages
+     - title: Software Analyst
+          company: Accenture Services Pvt Ltd.
+          company_url: ''
+          company_logo: org-x
+          location: Bangalore
+          date_start: '2014-11-01'
+          date_end: '2017-07-31'
+          description:
+             * Developed Selenium and Jenkins automated testing suite for code sanity checks in remote environments, increased performance by 33%, and halved FTE using Agile/SCRUM methodology
     design:
       columns: '2'
   - block: accomplishments
