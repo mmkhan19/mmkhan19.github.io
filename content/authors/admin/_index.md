@@ -54,7 +54,7 @@ skills:
       - name: R Programming Language
         description: ''
         percent: 95
-        icon: R
+        icon: researcherid
         icon_pack: fab
      - name: Python
         description: ''
