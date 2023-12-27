@@ -62,7 +62,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Graduate Student Researcher @<u><a href = https://www.bumc.bu.edu/compbiomed/labs/monti/> Monti Lab </a></u>
+        - title: Graduate Student Researcher @<u><a href = https://www.bumc.bu.edu/compbiomed/labs/monti/>Monti Lab </a></u>
           company: Boston University Chobanian & Avedisian School of Medicine
           company_url: ''
           company_logo: org-gc
@@ -71,16 +71,26 @@ sections:
           date_end: ''
           description: |2-
               * Led five data-intensive research projects to completion by publishing four publications in high-impact journals.
-        - title: Scientific Programmer @<a href = https://www.bu.edu/hic/profile/evan-johnson/> Johnson Lab </a>
+        - title: Scientific Programmer @<u><a href = https://www.bu.edu/hic/profile/evan-johnson/>Johnson Lab </a></u>
           company: Boston University Chobanian & Avedisian School of Medicine
           company_url: ''
           company_logo: org-x
           location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          date_start: '2018-06-01'
+          date_end: '2019-06-31'
           description: |2-
               * Co-developed <i> sctk </i>: a single-cell analysis toolkit with a user interface to ease downstream analyses.
               * Experienced in code release management and maintenance specifically for Bioconductor R packages
+        - title: Software Analyst
+          company: Accenture Services Pvt Ltd.
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2018-06-01'
+          date_end: '2019-06-31'
+          description: |2-
+              * Developed Selenium and Jenkins automated testing suite for code sanity checks in remote environments, increased performance by 33%,
+                and halved FTE using Agile/SCRUM methodology
     design:
       columns: '2'
   - block: accomplishments
