@@ -51,9 +51,14 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: R Programming Language
         description: ''
-        percent: 80
+        percent: 95
+        icon: R
+        icon_pack: fab
+     - name: Python
+        description: ''
+        percent: 60
         icon: python
         icon_pack: fab
       - name: Data Science
@@ -61,29 +66,19 @@ skills:
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Painting
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: palette
         icon_pack: fas
-      - name: Cats
+      - name: Cooking
         description: ''
         percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
+        icon: couldron
         icon_pack: fas
 
 # Social/Academic Networking
@@ -96,19 +91,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/muzukhan_
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=g8F1wNEAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/mmkhan19
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/khanmuzamil/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
