@@ -62,7 +62,7 @@ sections:
           date_start: June 2020
           date_end: ''
           description: |2-
-             * Led five data-intensive research projects to completion by publishing four publications in high-impact journals.
+              Led five data-intensive research projects to completion by publishing four publications in high-impact journals.
         - title: Scientific Programmer @<a href = https://www.bu.edu/hic/profile/evan-johnson/> Johnson Lab </a>
           company: Boston University Chobanian & Avedisian School of Medicine
           company_url: ''
@@ -71,8 +71,8 @@ sections:
           date_start: May 2018
           date_end: June 2019
           description: |2-
-              * Co-developed <i> sctk </i>: a single-cell analysis toolkit with a user interface to ease downstream analyses.
-              * Experienced in code release management and maintenance specifically for Bioconductor R packages
+              Co-developed <i> sctk </i>: a single-cell analysis toolkit with a user interface to ease downstream analyses.
+              Experienced in code release management and maintenance specifically for Bioconductor R packages
      - title: Software Analyst
           company: Accenture Services Pvt Ltd.
           company_url: ''
@@ -81,7 +81,7 @@ sections:
           date_start: November 2014
           date_end: July 2017
           description: |2-
-             * Developed Selenium and Jenkins automated testing suite for code sanity checks in remote environments, increased performance by 33%,
+               Developed Selenium and Jenkins automated testing suite for code sanity checks in remote environments, increased performance by 33%,
                and halved FTE using Agile/SCRUM methodology
         design:
       columns: '3'
