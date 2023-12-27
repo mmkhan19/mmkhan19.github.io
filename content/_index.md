@@ -62,8 +62,8 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Graduate Student Researcher @<a href = https://www.bumc.bu.edu/compbiomed/labs/monti/> Monti Lab </a>
+          company: Boston University Chobanian & Avedisian School of Medicine
           company_url: ''
           company_logo: org-gc
           location: California
