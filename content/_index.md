@@ -70,8 +70,8 @@ sections:
           location: Massachusetts
           date_start: '2018-06-01'
           date_end: '2019-05-31'
-          description:
-              * Co-developed <i> sctk </i>: a single-cell analysis toolkit with a user interface for ease of downstream analysis.
+          description: |2-
+              * Co-developed <i> sctk </i>: a single-cell analysis toolkit with a user interface to ease downstream analyses.
               * Experienced in code release management and maintenance specifically for Bioconductor R packages
      - title: Software Analyst
           company: Accenture Services Pvt Ltd.
@@ -80,7 +80,7 @@ sections:
           location: Bangalore
           date_start: '2014-11-01'
           date_end: '2017-07-31'
-          description:
+          description: |2-
              * Developed Selenium and Jenkins automated testing suite for code sanity checks in remote environments, increased performance by 33%, and halved FTE using Agile/SCRUM methodology
     design:
       columns: '2'
