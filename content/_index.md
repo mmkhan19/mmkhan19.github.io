@@ -66,7 +66,7 @@ sections:
           company: Boston University Chobanian & Avedisian School of Medicine
           company_url: ''
           company_logo: org-gc
-          location: California
+          location: Boston, USA
           date_start: '2020-06-01'
           date_end: ''
           description: |2-
@@ -75,7 +75,7 @@ sections:
           company: Boston University Chobanian & Avedisian School of Medicine
           company_url: ''
           company_logo: org-x
-          location: California
+          location: Boston, USA
           date_start: '2018-06-01'
           date_end: '2019-06-31'
           description: |2-
@@ -85,7 +85,7 @@ sections:
           company: Accenture Services Pvt Ltd.
           company_url: ''
           company_logo: org-x
-          location: California
+          location: Bangalore, India
           date_start: '2018-06-01'
           date_end: '2019-07-31'
           description: |2-
