@@ -1,6 +1,6 @@
 ---
 title: PML
-summary: An example of using the in-built project page.
+summary: Using bulk transcriptomics sequencing to investigate human oral pre-cancerous lesions and cancer.
 tags:
   - Sequencing
   - Bioinformatics
@@ -20,7 +20,7 @@ links:
   - icon: pubmed
     icon_pack: ai
     name: Read
-    URL: doi:10.1186/s40246-023-00519-y
+    URL: https://humgenomics.biomedcentral.com/articles/10.1186/s40246-023-00519-y
 url_code: ''
 url_pdf: ''
 url_slides: ''
