@@ -1,5 +1,5 @@
 ---
-title: PML
+title: Oral Pre-malignant Lesions
 summary: Using bulk transcriptomics sequencing to investigate human oral pre-cancerous lesions and cancer.
 tags:
   - Sequencing
