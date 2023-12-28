@@ -34,5 +34,5 @@ url_video: ''
 slides: example
 ---
 
-A study to discover cellular identities of murine oral tumors treated with a pharmacological blockade of Wnt/b-cat/CBP signaling complex induced via tobacco-associated carcinogen. A large dataset with 50K+ cells with information on cellular sub-types, programs, and dynamics to study onco-phenotypes.
+A single-cell study to discover cellular identities of murine oral tumors treated with a pharmacological blockade of Wnt/b-cat/CBP signaling complex induced via tobacco-associated carcinogen. A large dataset with 50K+ cells with information on cellular sub-types, programs, and dynamics to study onco-phenotypes. Manuscript in progress.
 
