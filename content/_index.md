@@ -78,7 +78,7 @@ sections:
           company_url: ''
           company_logo: org-x
           location: Bangalore, India
-          date_start: '2014-01-11'
+          date_start: '2014-11-01'
           date_end: '2019-07-31'
           description: |2-
               * Developed Selenium and Jenkins automated testing suite for code sanity checks in remote environments, increased performance by 33%,
