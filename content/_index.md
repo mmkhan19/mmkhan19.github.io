@@ -57,7 +57,7 @@ sections:
         - title: Graduate Student Researcher @<u><a href = https://www.bumc.bu.edu/compbiomed/labs/monti/>Monti Lab </a></u>
           company: Boston University Chobanian & Avedisian School of Medicine
           company_url: ''
-          company_logo: org-gc
+          company_logo: BU
           location: Boston, USA
           date_start: '2020-06-01'
           date_end: ''
@@ -66,7 +66,7 @@ sections:
         - title: Scientific Programmer @<u><a href = https://www.bu.edu/hic/profile/evan-johnson/>Johnson Lab </a></u>
           company: Boston University Chobanian & Avedisian School of Medicine
           company_url: ''
-          company_logo: org-x
+          company_logo: BU
           location: Boston, USA
           date_start: '2018-06-01'
           date_end: '2019-06-30'
@@ -76,7 +76,7 @@ sections:
         - title: Software Analyst
           company: Accenture Services Pvt Ltd.
           company_url: ''
-          company_logo: org-x
+          company_logo: accenture_logo
           location: Bangalore, India
           date_start: '2014-11-01'
           date_end: '2019-07-31'
