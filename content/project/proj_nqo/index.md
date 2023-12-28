@@ -6,7 +6,7 @@ tags:
   - Bioinformatics
   - ML
   - Oncology
-  - Cell Therapy
+  - Targeted Therapy
 date: '2023-12-28'
 
 # Optional external URL for project (replaces project detail page).
