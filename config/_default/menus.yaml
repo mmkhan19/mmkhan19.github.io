@@ -17,13 +17,13 @@ main:
     url: '#featured'
     weight: 40
   - name: Skills
-    url: '#contact'
+    url: '#skills'
     weight: 50
   - name: Volunteering & Leadership
-    url: '#featured'
+    url: '#vol'
     weight: 60
   - name: Awards
-    url: '#contact'
+    url: '#awards'
     weight: 70
   - name: Posts
     url: '#posts'
