@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: PML
 summary: An example of using the in-built project page.
 tags:
   - Sequencing
@@ -19,8 +19,8 @@ image:
 links:
   - icon: pubmed
     icon_pack: ai
-    name: Follow
-    URL: https://doi:10.1186/s40246-023-00519-y
+    name: Read
+    URL: doi:10.1186/s40246-023-00519-y
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -34,4 +34,4 @@ url_video: ''
 slides: example
 ---
 
-A total transcriptomic approach to profile human and microbial transcripts in characterization of pre-malignant lesions in comparison with oral squamous carcinoma (cancer/tumor) and normal (control). Built a cross-talk model to link significant human pathway activity to microbial abundance. Applied various ML approaches such as Random Forest for imputing missing smoking labels, and PCA/UMAP for dimensionality reduction.
+A total transcriptomic approach to profile human and microbial transcripts in the characterization of pre-malignant lesions compared to oral squamous carcinoma (cancer/tumor) and normal (control). Built a cross-talk model to link significant human pathway activity to microbial abundance. Applied various ML approaches such as Random Forest for imputing missing smoking labels, and PCA/UMAP for dimensionality reduction.
