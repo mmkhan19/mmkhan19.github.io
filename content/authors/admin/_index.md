@@ -81,7 +81,8 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-<img src= 'static/upload/CoverPicture.png' alt="Cover pic" width="500" height="600">
+  - icon: cv
+    link: uploads/CoverPicture.png
 
 I am a fifth-year PhD candidate in the <a href = "https://www.bu.edu/bioinformatics"> Bioinformatics program at BU </a> working with <a href = "https://www.bumc.bu.edu/compbiomed/labs/monti/"> Dr. Stefano Monti </a> on multi-modal data analysis and integration using various 'omics' data in the context of oncology specifically oral and lung malignancies. My projects include (i) characterization of oral pre-malignant lesions (PML) with total transcriptomics sequencing (host+microbial), 
 (ii) drug treatment to murine oral tumors with single-cell profiling, and (iii) gene editing in murine lung tumors. I also enjoy developing toolkits for quick and easy downstream analysis.
