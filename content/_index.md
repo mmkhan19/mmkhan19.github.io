@@ -66,7 +66,7 @@ sections:
         - title: Scientific Programmer @<u><a href = https://www.bu.edu/hic/profile/evan-johnson/>Johnson Lab </a></u>
           company: Boston University Chobanian & Avedisian School of Medicine
           company_url: ''
-          company_logo: BU
+          company_logo: bu
           location: Boston, USA
           date_start: '2018-06-01'
           date_end: '2019-06-30'
