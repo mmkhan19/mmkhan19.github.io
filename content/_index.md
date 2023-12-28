@@ -57,7 +57,7 @@ sections:
         - title: Graduate Student Researcher @<u><a href = https://www.bumc.bu.edu/compbiomed/labs/monti/>Monti Lab </a></u>
           company: Boston University Chobanian & Avedisian School of Medicine
           company_url: ''
-          company_logo: BU
+          company_logo: bu
           location: Boston, USA
           date_start: '2020-06-01'
           date_end: ''
