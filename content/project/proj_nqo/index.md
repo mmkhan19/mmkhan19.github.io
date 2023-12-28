@@ -1,6 +1,6 @@
 ---
 title: Oral Murine Tumors
-summary: Using bulk transcriptomics sequencing to investigate human oral pre-cancerous lesions and cancer.
+summary: A single-cell transcriptomics sequencing approach to investigate cellular heterogeneity of murine oral tumors upon treatment to a b-cat/CBP inhibitor.
 tags:
   - Sequencing
   - Bioinformatics
@@ -33,4 +33,5 @@ url_video: ''
 slides: example
 ---
 
-A total transcriptomic approach to profile human and microbial transcripts in the characterization of pre-malignant lesions compared to oral squamous carcinoma (cancer/tumor) and normal (control). Built a cross-talk model to link significant human pathway activity to microbial abundance. Applied various ML approaches such as Random Forest for imputing missing smoking labels, and PCA/UMAP for dimensionality reduction.
+A study to discover cellular identities of murine oral tumors treated with a pharmacological blockade of Wnt/b-cat/CBP signaling complex induced via tobacco-associated carcinogen. A large dataset with 50K+ cells with information on cellular sub-types, programs, and dynamics to study onco-phenotypes.
+
