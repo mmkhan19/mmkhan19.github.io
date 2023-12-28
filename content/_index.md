@@ -69,7 +69,7 @@ sections:
           company_logo: org-x
           location: Boston, USA
           date_start: '2018-06-01'
-          date_end: '2019-06-31'
+          date_end: '2019-06-30'
           description: |2-
               * Co-developed <i> sctk </i>: a single-cell analysis toolkit with a user interface to ease downstream analyses.
               * Experienced in code release management and maintenance specifically for Bioconductor R packages
