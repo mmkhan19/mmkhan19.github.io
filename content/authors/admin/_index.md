@@ -29,7 +29,7 @@ bio: My research interests include multi-omic data integration and analysis of o
 
 # Interests to show in About widget
 interests:
-  - Computataional Biology
+  - Computational Biology
   - Bioinformatics
   - Machine Learning and AI
 
