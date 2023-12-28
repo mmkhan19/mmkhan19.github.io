@@ -181,8 +181,8 @@ sections:
           tag: Oncology
         - name: Microbiome
           tag: Microbiome
-        - name: Cell Therapy
-          tag: Cell Therapy
+        - name: Targeted Therapy
+          tag: Targeted Therapy
         - name: Other
           tag: Demo
     design:
