@@ -7,7 +7,7 @@ name_pronunciation: M. Muzamil Khan
 
 # Full name (for SEO)
 first_name: M. Muzamil 
-last_name: Khan
+last_name: Khan <br/> {mmkhan@bu.edu}
 
 # Status emoji
 status:
