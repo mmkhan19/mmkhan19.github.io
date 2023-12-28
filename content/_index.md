@@ -68,7 +68,7 @@ sections:
           company_url: ''
           company_logo: org-x
           location: Boston, USA
-          date_start: '2018-01-06'
+          date_start: '2018-06-01'
           date_end: '2019-06-31'
           description: |2-
               * Co-developed <i> sctk </i>: a single-cell analysis toolkit with a user interface to ease downstream analyses.
