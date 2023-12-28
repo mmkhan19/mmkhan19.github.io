@@ -223,7 +223,19 @@ sections:
       filters:
         folders:
           - event
+        design:
+      columns: '2'
+  - block: collection
+    id: awards
+    content:
+      title: Featured Awards
+      filters:
+        folders:
+          - awards
+        featured_only: true
     design:
       columns: '2'
+      view: card
+
       view: compact
 ---
