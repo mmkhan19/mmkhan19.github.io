@@ -92,7 +92,7 @@ sections:
               * Developed Selenium and Jenkins automated testing suite for code sanity checks in remote environments, increased performance by 33%,
                 and halved FTE using Agile/SCRUM methodology
     design:
-      columns: '3'
+      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
