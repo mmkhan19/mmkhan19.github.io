@@ -1,5 +1,5 @@
 ---
-title: Oral Murine Tumors
+title: Targeted Therapy of Oral Murine Tumors
 summary: A single-cell transcriptomics sequencing approach to investigate cellular heterogeneity of murine oral tumors upon treatment to a b-cat/CBP inhibitor.
 tags:
   - Sequencing
