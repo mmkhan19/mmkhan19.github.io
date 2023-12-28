@@ -171,8 +171,16 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Sequencing
+          tag: Sequencing
+        - name: Bioinformatics
+          tag: Bioinformatics
+        - name: ML
+          tag: ML
+        - name: Oncology
+          tag: Oncology
+        - name: Microbiome
+          tag: Microbiome
         - name: Other
           tag: Demo
     design:
