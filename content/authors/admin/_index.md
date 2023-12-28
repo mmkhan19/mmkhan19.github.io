@@ -55,7 +55,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mmkhan@bu.edu
+    link: mailto:mmkhan@bu.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/muzukhan_
