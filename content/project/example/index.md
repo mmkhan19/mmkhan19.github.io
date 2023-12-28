@@ -20,7 +20,7 @@ links:
   - icon: pubmed
     icon_pack: ai
     name: Follow
-    url: doi: 10.1186/s40246-023-00519-y
+    url: https://doi:10.1186/s40246-023-00519-y
 url_code: ''
 url_pdf: ''
 url_slides: ''
