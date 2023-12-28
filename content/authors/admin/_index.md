@@ -7,7 +7,7 @@ name_pronunciation: M. Muzamil Khan
 
 # Full name (for SEO)
 first_name: M. Muzamil 
-last_name: Khan <br/> {mmkhan@bu.edu}
+last_name: Khan
 
 # Status emoji
 status:
@@ -55,7 +55,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mmkhan@bu.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/muzukhan_
