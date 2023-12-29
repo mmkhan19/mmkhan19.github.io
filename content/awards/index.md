@@ -5,7 +5,7 @@ date: 2023-12-27
 type: landing
 
 sections:
-  - block: awards
+  - block: collection
     content:
       title: Awards
       # Date format for experience
