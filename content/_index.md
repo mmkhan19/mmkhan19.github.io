@@ -184,6 +184,42 @@ sections:
         design:
       columns: '2'
   - block: experience
+    id: teach
+    content:
+      title: Teaching
+      items:
+        - title: Teaching Assistant for BS831 Genomics Data Mining and Statistics 
+          company: Boston University 
+          company_url: ''
+          company_logo: bu
+          location: Boston, USA
+          date_start: '2022-01-01'
+          date_end: '2023-05-30'
+          description: |2-
+            * Assisted in grading (homeworks and projects) and conducting office hours for 80+ students for two semesters.
+        - title: Machine Learning in R for BRITE-REU Students
+          company: Boston University 
+          company_url: ''
+          company_logo: bu
+          location: Boston, USA
+          date_start: '2022-06-01'
+          date_end: '2022-06-01'
+          description: |2-
+            * Developed the R module for machine learning using gene expression data for 10+ students
+        - title: Basic Sciences Mentor
+          company: Self
+          company_url: ''
+          company_logo: ''
+          location: Bangalore, India
+          date_start: '2008-06-01'
+          date_end: '2017-06-01'
+          description: |2-
+            * Tutored 30+ middle and high school students for subjects involving basic sciences (Physics, Chemistry, Mathematics, and Biology) and languages (English, Hindi, Kannada)
+    design:
+      columns: '2'
+      view: card
+      view: compact
+  - block: experience
     id: vol
     content:
       title: Volunteering & Leadership
