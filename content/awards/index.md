@@ -6,6 +6,7 @@ type: landing
 
 sections:
   - block: collection
+    id: awards
     content:
       title: Awards
       # Date format for experience
