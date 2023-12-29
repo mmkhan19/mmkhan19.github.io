@@ -200,6 +200,61 @@ sections:
           date_start: '2017-09-01'
           date_end: '2018-05-30'
           description: |2-
+            * Merit-based scholarship for incoming students.
+        - title: Government of Karnataka, India Overseas Scholarship (₹20Lakhs)
+          company: Government of Karnataka
+          company_url: ''
+          company_logo: ''
+          location: Bangalore, India
+          date_start: '2017-09-01'
+          date_end: '2019-05-30'
+          description: |2-
+            * Merit-based scholarship for minorotized Indian nationals studying in foreign countries.
+        - title: Accenture Client Excellence Award
+          company: Accenture Services Pvt Ltd
+          company_url: ''
+          company_logo: accenture-logo
+          location: Bangalore, India
+          date_start: '2016-08-01'
+          date_end: '2016-08-01'
+          description: |2-
+            * Best team award across the 'FinTech' sector for excellent service and cutting-edge developments.
+        - title: Accenture DevOps Trailblazer Award
+          company: Accenture Services Pvt Ltd
+          company_url: ''
+          company_logo: accenture-logo
+          location: Bangalore, India
+          date_start: '2015-11-01'
+          date_end: '2015-11-01'
+          description: |2-
+            * For single-handedly completing the development of Selenium automation testing suite.
+        - title: Accenture High Performer Award
+          company: Accenture Services Pvt Ltd
+          company_url: ''
+          company_logo: accenture-logo
+          location: Bangalore, India
+          date_start: '2017-09-01'
+          date_end: '2018-05-30'
+          description: |2-
+            * Best new joiner.
+        - title: Government of Karnataka, India STEM Undergraduate Scholarship (₹1.32Lakhs)
+          company: Government of Karnataka
+          company_url: ''
+          company_logo: ''
+          location: Bangalore, India
+          date_start: '2010-09-01'
+          date_end: '2014-05-30'
+          description: |2-
+            * Merit-based minoritized students enrolled in top universities across the state.
+        - title: Best Dissertation Award
+          company: CMR Institute of Technology
+          company_url: ''
+          company_logo: ''
+          location: Bangalore, India
+          date_start: '2014-01-01'
+          date_end: '2014-05-30'
+          description: |2-
+            * Project '3D Campus Tour' wins the best dissertation award.
     design:
       columns: '2'
       view: card
