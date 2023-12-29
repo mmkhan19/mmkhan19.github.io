@@ -25,7 +25,7 @@ organizations:
     url: https://www.bu.edu/bioinformatics
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include multi-omic data integration and analysis of oral and lung malignancies.
+bio: My research interests include multi-omic data integration and analysis of disease data.
 
 # Interests to show in About widget
 interests:
@@ -81,7 +81,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-<h3>Using computers to cure human diseases one line of code at a time!</h3>
+<center><h3>Using computers to cure human diseases one line of code at a time!</h3></center>
 I am a fifth-year PhD candidate in the <a href = "https://www.bu.edu/bioinformatics"> Bioinformatics program at BU </a> working with <a href = "https://www.bumc.bu.edu/compbiomed/labs/monti/"> Dr. Stefano Monti </a> on multi-modal data analysis and integration using various 'omics' data in the context of oncology specifically oral and lung malignancies. My projects include (i) characterization of oral pre-malignant lesions (PML) with total transcriptomics sequencing (host+microbial), 
 (ii) drug treatment to murine oral tumors with single-cell profiling, and (iii) gene editing in murine lung tumors. I also enjoy developing toolkits for quick and easy downstream analysis.
 {style="text-align: justify;"}
