@@ -186,7 +186,7 @@ sections:
   - block: experience
     id: awards
     content:
-      title: Featured Awards
+      title: Awards & Accomplishments
       filters:
         folders:
           - awards
@@ -254,10 +254,31 @@ sections:
           date_start: '2014-01-01'
           date_end: '2014-05-30'
           description: |2-
-            * Project '3D Campus Tour' wins the best dissertation award.
+            * Project '3D Campus Tour' wins the best dissertation award for an innovative solution to display college campus and facilities.
     design:
       columns: '2'
       view: card
-
+      view: compact
+  - block: experience
+    id: vol
+    content:
+      title: Volunteering & Leadership
+      filters:
+        folders:
+          - vol
+        featured_only: false
+      items:
+        - title: Organizing Committee for Student-organized Symposium (SoS)
+          company: Boston University 
+          company_url: ''
+          company_logo: bu
+          location: Boston, USA
+          date_start: '2021-06-01'
+          date_end: '2022-05-01'
+          description: |2-
+            * Member of the organizing committee to plan and execute various events as part of the symposium
+    design:
+      columns: '2'
+      view: card
       view: compact
 ---
