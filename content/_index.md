@@ -191,15 +191,15 @@ sections:
         folders:
           - awards
         featured_only: false
-          items:
-            - title: MS in Bioinformatics Scholarship ($10K)
-              company: Boston University 
-              company_url: ''
-              company_logo: bu
-              location: Boston, USA
-              date_start: '2017-09-01'
-              date_end: '2018-05-30'
-              description: |2-
+      items:
+        - title: MS in Bioinformatics Scholarship ($10K)
+          company: Boston University 
+          company_url: ''
+          company_logo: bu
+          location: Boston, USA
+          date_start: '2017-09-01'
+          date_end: '2018-05-30'
+          description: |2-
     design:
       columns: '2'
       view: card
