@@ -17,7 +17,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: MS Scholarship ($10K)
+        - title: MS in Bioinformatics Scholarship ($10K)
           company: Boston University 
           company_url: ''
           company_logo: bu
