@@ -204,7 +204,7 @@ sections:
         - title: Government of Karnataka, India Overseas Scholarship (₹20Lakhs)
           company: Government of Karnataka
           company_url: ''
-          company_logo: ''
+          company_logo: gok
           location: Bangalore, India
           date_start: '2017-09-01'
           date_end: '2019-05-30'
@@ -240,7 +240,7 @@ sections:
         - title: Government of Karnataka, India STEM Undergraduate Scholarship (₹1.32Lakhs)
           company: Government of Karnataka
           company_url: ''
-          company_logo: ''
+          company_logo: gok
           location: Bangalore, India
           date_start: '2010-09-01'
           date_end: '2014-05-30'
@@ -249,7 +249,7 @@ sections:
         - title: Best Dissertation Award
           company: CMR Institute of Technology
           company_url: ''
-          company_logo: ''
+          company_logo: cmrit
           location: Bangalore, India
           date_start: '2014-01-01'
           date_end: '2014-05-30'
