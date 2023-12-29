@@ -213,7 +213,7 @@ sections:
         - title: Accenture Client Excellence Award
           company: Accenture Services Pvt Ltd
           company_url: ''
-          company_logo: accenture-logo
+          company_logo: accenture_logo
           location: Bangalore, India
           date_start: '2016-08-01'
           date_end: '2016-08-01'
@@ -222,7 +222,7 @@ sections:
         - title: Accenture DevOps Trailblazer Award
           company: Accenture Services Pvt Ltd
           company_url: ''
-          company_logo: accenture-logo
+          company_logo: accenture_logo
           location: Bangalore, India
           date_start: '2015-11-01'
           date_end: '2015-11-01'
@@ -231,7 +231,7 @@ sections:
         - title: Accenture High Performer Award
           company: Accenture Services Pvt Ltd
           company_url: ''
-          company_logo: accenture-logo
+          company_logo: accenture_logo
           location: Bangalore, India
           date_start: '2017-09-01'
           date_end: '2018-05-30'
