@@ -19,18 +19,21 @@ main:
   - name: Skills
     url: '#skills'
     weight: 50
+  - name: Teaching
+    url: '#teach'
+    weight: 60
   - name: Volunteering & Leadership
     url: '#vol'
-    weight: 60
+    weight: 70
   - name: Awards
     url: '#awards'
-    weight: 70
+    weight: 80
   - name: Posts
     url: '#posts'
-    weight: 80
+    weight: 90
   - name: CV
     url: uploads/resume.pdf
-    weight: 90
+    weight: 100
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV
