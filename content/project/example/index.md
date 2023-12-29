@@ -20,7 +20,7 @@ links:
   - icon: pubmed
     icon_pack: ai
     name: Read
-    URL: https://humgenomics.biomedcentral.com/articles/10.1186/s40246-023-00519-y
+    url: https://humgenomics.biomedcentral.com/articles/10.1186/s40246-023-00519-y
 url_code: ''
 url_pdf: ''
 url_slides: ''
