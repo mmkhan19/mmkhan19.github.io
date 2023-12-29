@@ -315,8 +315,8 @@ sections:
           company_url: ''
           company_logo: accenture_logo
           location: Bangalore, India
-          date_start: '2017-09-01'
-          date_end: '2018-05-30'
+          date_start: '2015-05-01'
+          date_end: '2015-05-30'
           description: |2-
             * Best new joiner.
         - title: Government of Karnataka, India STEM Undergraduate Scholarship (₹1.32Lakhs)
