@@ -81,5 +81,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-<center><h4 style="font-family:arial;">Using computers to cure human diseases </h4><p style="font-family:courier;color:green">one line of code</p><h4 style="font-family:arial;">at a time!</h4></center>
+<center><h4 style="font-family:arial;">Using computers to cure human diseases </h4><p style="font-family:courier;color:green">{<br/>one line of code<br/>}</p><h4 style="font-family:arial;">at a time!</h4></center>
 I am a fifth-year PhD candidate in the <a href = "https://www.bu.edu/bioinformatics"> Bioinformatics Graduate Program at BU </a> working with <a href = "https://www.bumc.bu.edu/compbiomed/labs/monti/"> Dr. Stefano Monti </a> on multi-modal data analysis and integration using various 'omics' data in the context of oncology specifically oral and lung malignancies. My projects include (i) characterization of oral pre-malignant lesions (PML) with total transcriptomics sequencing (host+microbial), (ii) drug treatment to murine oral tumors with single-cell profiling, and (iii) gene editing in murine lung tumors. I also enjoy developing toolkits for quick and easy downstream analysis.
