@@ -268,6 +268,48 @@ sections:
           - vol
         featured_only: false
       items:
+        - title: Organizing Committee for Section's DEIA Initiatives
+          company: Boston University 
+          company_url: ''
+          company_logo: bu
+          location: Boston, USA
+          date_start: '2023-01-01'
+          date_end: ''
+          description: |2-
+            * Member of the organizing committee to plan and execute various events for promoting DEIA initiatives in the section.
+            * Developed the DEIA website for active announcements and engagement (Check it out - <a href="https://www.bumc.bu.edu/compbiomed/deia/")CBM DEIA </a>
+        - title: Bioinformatics Organized Students (BiOS) Support Team
+          company: Boston University 
+          company_url: ''
+          company_logo: bu
+          location: Boston, USA
+          date_start: '2021-06-01'
+          date_end: ''
+          description: |2-
+            * Active member of supporting student-led initiatives for the betterment of grad-life experience.
+            * Activities:
+              (i) panel member for ex-MS current PhD students in the program graduate application and misc. - attended by 20+ MS students
+              (ii) helped the 2021 cohort of 6+ students in preparing for their PhD candidacy (qualifying exams)
+              (iii) open house mentor for PhD interviews
+        - title: Student Mentor
+          company: Boston University 
+          company_url: ''
+          company_logo: bu
+          location: Boston, USA
+          date_start: '2018-06-01'
+          date_end: ''
+          description: |2-
+            * Active member in supporting incoming graduate students to help with orientation, course guidance, and job search.
+            * Accomplishment: My mentee joined our MS program, completed it in 1 year, and now works at Moderna as a bioinformatician!
+        - title: Bioinformatics Graduate Program Recruiter
+          company: Boston University 
+          company_url: ''
+          company_logo: bu
+          location: Boston, USA
+          date_start: '2023-11-11'
+          date_end: '2023-11-11'
+          description: |2-
+            * Attended the ABRCMS conference for minoritized undergraduates and helped recruit 50+ students into the program 
         - title: Organizing Committee for Student-organized Symposium (SoS)
           company: Boston University 
           company_url: ''
@@ -276,7 +318,17 @@ sections:
           date_start: '2021-06-01'
           date_end: '2022-05-01'
           description: |2-
-            * Member of the organizing committee to plan and execute various events as part of the symposium
+            * Member of the organizing committee to plan and execute various events for the symposium.
+        - title: Organizing Committee for Section's Retreat
+          company: Boston University 
+          company_url: ''
+          company_logo: bu
+          location: Boston, USA
+          date_start: '2021-06-01'
+          date_end: '2023-04-30'
+          description: |2-
+            * Actively participated, planned, and executed various events for our department's retreat
+
     design:
       columns: '2'
       view: card
