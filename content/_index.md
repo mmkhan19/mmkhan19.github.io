@@ -225,7 +225,7 @@ sections:
           - event
         design:
       columns: '2'
-  - block: collection
+  - block: experience
     id: awards
     content:
       title: Featured Awards
