@@ -277,7 +277,7 @@ sections:
           date_end: ''
           description: |2-
             * Member of the organizing committee to plan and execute various events for promoting DEIA initiatives in the section.
-            * Developed the DEIA website for active announcements and engagement (Check it out - <a href="https://www.bumc.bu.edu/compbiomed/deia/")CBM DEIA </a>
+            * Developed the DEIA website for active announcements and engagement (Check it out - <a href="https://www.bumc.bu.edu/compbiomed/deia/">CBM DEIA </a>)
         - title: Bioinformatics Organized Students (BiOS) Support Team
           company: Boston University 
           company_url: ''
