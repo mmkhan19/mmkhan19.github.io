@@ -25,7 +25,7 @@ organizations:
     url: https://www.bu.edu/bioinformatics
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include multi-omic data integration and analysis of disease data.
+bio: My research interests include multi-omic tool development, data integration, and analyses to discover disease targets.
 
 # Interests to show in About widget
 interests:
