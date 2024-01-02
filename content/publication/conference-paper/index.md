@@ -74,7 +74,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 
-title: 'An example conference paper'
+title: 'An example conference paper1'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
