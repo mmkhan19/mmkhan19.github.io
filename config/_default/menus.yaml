@@ -10,11 +10,11 @@ main:
   - name: Projects
     url: '#projects'
     weight: 20
-  - name: Conference Pres.
-    url: '#conf'
-    weight: 30
   - name: Publications
     url: '#featured'
+    weight: 30
+  - name: Conference Pres.
+    url: '#conf'
     weight: 40
   - name: Skills
     url: '#skills'
