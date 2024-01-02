@@ -123,6 +123,15 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+        design:
+      columns: '2'
+  - block: collection
     id: featured
     content:
       title: Featured Publications
@@ -147,15 +156,6 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-        design:
-      columns: '2'
   - block: experience
     id: teach
     content:
