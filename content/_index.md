@@ -268,7 +268,7 @@ sections:
   - block: experience
     id: awards
     content:
-      title: Awards & Accomplishments
+      title: Awards
       filters:
         folders:
           - awards
@@ -283,7 +283,7 @@ sections:
           date_end: '2018-05-30'
           description: |2-
             * Merit-based scholarship for incoming students.
-        - title: Government of Karnataka, India Overseas Scholarship (₹20Lakhs)
+        - title: Government of Karnataka, India Overseas Scholarship (₹20L)
           company: Government of Karnataka
           company_url: ''
           company_logo: gok
@@ -291,7 +291,7 @@ sections:
           date_start: '2017-09-01'
           date_end: '2019-05-30'
           description: |2-
-            * Merit-based scholarship for minorotized Indian nationals studying in foreign countries.
+            * Merit-based scholarship for minoritized Indian nationals studying in foreign countries.
         - title: Accenture Client Excellence Award
           company: Accenture Services Pvt Ltd
           company_url: ''
@@ -309,7 +309,7 @@ sections:
           date_start: '2015-11-01'
           date_end: '2015-11-01'
           description: |2-
-            * For single-handedly completing the development of Selenium automation testing suite.
+            * For single-handedly completing the development of the Selenium automation testing suite.
         - title: Accenture High Performer Award
           company: Accenture Services Pvt Ltd
           company_url: ''
@@ -319,7 +319,7 @@ sections:
           date_end: '2015-05-30'
           description: |2-
             * Best new joiner.
-        - title: Government of Karnataka, India STEM Undergraduate Scholarship (₹1.32Lakhs)
+        - title: Government of Karnataka, India STEM Undergraduate Scholarship (₹1.32L)
           company: Government of Karnataka
           company_url: ''
           company_logo: gok
