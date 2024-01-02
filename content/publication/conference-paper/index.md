@@ -73,10 +73,8 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
----
 
 
----
 title: 'An example conference paper1'
 
 # Authors
