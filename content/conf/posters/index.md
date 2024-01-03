@@ -9,10 +9,10 @@ summary: List of talks and posters at various international conferences.
 projects: []
 
 # Date published
-date: '2024-1-2T00:00:00Z'
+date: '2024-1-2'
 
 # Date updated
-lastmod: '2024-1-2T00:00:00Z'
+lastmod: '2024-1-2'
 
 # Is this an unpublished draft?
 draft: false
