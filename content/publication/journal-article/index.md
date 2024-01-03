@@ -32,7 +32,7 @@ featured: true
 
 # links:
 - name: Human Genomics
-- url: 'https://humgenomics.biomedcentral.com/articles/10.1186/s40246-023-00519-y'
+url: 'https://humgenomics.biomedcentral.com/articles/10.1186/s40246-023-00519-y'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
