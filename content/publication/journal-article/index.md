@@ -1,16 +1,15 @@
 ---
-title: "An example journal article"
+title: "Total RNA sequencing reveals gene expression and microbial alterations shared by oral pre-malignant lesions and cancer"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
+date: "2023-08-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-08-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,17 +17,18 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Human Genomics*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Patients harboring oral premalignant lesions (PMLs) have an increased risk of developing oral squamous cell carcinoma (OSCC), but the underlying mechanisms driving transformation of PMLs to OSCC remain poorly understood. In this study, Khan et al., analyzed a newly generated dataset of gene expression and microbial profiles of oral tissues from patients diagnosed with PMLs from differing histopathological groups, including hyperkeratosis not reactive (HkNR) and dysplasia, comparing these profiles with OSCC and normal oral mucosa. Significant similarities between PMLs and OSCC were observed, with PMLs manifesting several cancer hallmarks, including oncogenic and immune pathways. The study also demonstrates associations between the abundance of multiple microbial species and PML groups, suggesting a potential contribution of the oral microbiome to the early stages of OSCC development. The study offers insights into the nature of the molecular, cellular and microbial heterogeneity of oral PMLs and suggests that molecular and clinical refinement of PMLs may provide opportunities for early disease detection and interception.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Characterisation of human and microbial profiling of premalignant lesions of the oral cavity in comparison with oral cancers and healthy mucosa.
+
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
@@ -45,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Unsplash**](Graphical Abstract)'
   focal_point: ""
   preview_only: false
 
@@ -64,12 +64,12 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+#{{% callout note %}}
+#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+#{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+#{{% callout note %}}
+#Create your slides in Markdown - click the *Slides* button to check out the example.
+#{{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+#Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
