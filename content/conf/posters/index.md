@@ -39,8 +39,6 @@ categories:
     
 ---
 
-
-## Overview
 <h3><u>Talks </u></h3>
 <ol type="1">
   <li><b><u>Khan, M.M.</u></b>, Reed, E., Kroehling, L., Bais, M., Varelas, X., Kukuruzinska, M., Monti, S.,
