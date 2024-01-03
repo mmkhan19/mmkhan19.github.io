@@ -6,7 +6,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2023-08-01T00:00:00Z"
-doi: ""
+doi: "https://humgenomics.biomedcentral.com/articles/10.1186/s40246-023-00519-y"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-08-01T00:00:00Z"
@@ -32,7 +32,7 @@ featured: true
 
 # links:
 name: Human Genomics
-url: 'https://humgenomics.biomedcentral.com/articles/10.1186/s40246-023-00519-y'
+url: ''
 url_pdf: ''
 url_code: ''
 url_dataset: ''
