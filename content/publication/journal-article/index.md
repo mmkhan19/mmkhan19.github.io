@@ -17,7 +17,7 @@ publishDate: "2023-08-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Human Genomics*(1)"
+publication: "*Human Genomics*"
 publication_short: ""
 
 abstract: Patients harboring oral premalignant lesions (PMLs) have an increased risk of developing oral squamous cell carcinoma (OSCC), but the underlying mechanisms driving transformation of PMLs to OSCC remain poorly understood. In this study, Khan et al., analyzed a newly generated dataset of gene expression and microbial profiles of oral tissues from patients diagnosed with PMLs from differing histopathological groups, including hyperkeratosis not reactive (HkNR) and dysplasia, comparing these profiles with OSCC and normal oral mucosa. Significant similarities between PMLs and OSCC were observed, with PMLs manifesting several cancer hallmarks, including oncogenic and immune pathways. The study also demonstrates associations between the abundance of multiple microbial species and PML groups, suggesting a potential contribution of the oral microbiome to the early stages of OSCC development. The study offers insights into the nature of the molecular, cellular and microbial heterogeneity of oral PMLs and suggests that molecular and clinical refinement of PMLs may provide opportunities for early disease detection and interception.
@@ -31,10 +31,10 @@ tags:
 featured: true
 
 # links:
-# - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+- name: Human Genomics
+- url: https://humgenomics.biomedcentral.com/articles/10.1186/s40246-023-00519-y
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -45,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](Graphical Abstract)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
