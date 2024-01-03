@@ -37,8 +37,8 @@ tags:
   - conference
   - symposium
 
-#categories:
-#- 
+categories:
+- talk
     
 ---
 
