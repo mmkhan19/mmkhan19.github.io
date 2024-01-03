@@ -1,9 +1,9 @@
 ---
 title: Conference Talks and Posters
-subtitle: Selected for oral presentation and posters
+subtitle: ''
 
 # Summary for listings and search engines
-summary: Selected for oral presentation and posters
+summary: List of talks and posters at various international conferences.
 
 # Link this post with a project
 projects: []
@@ -18,7 +18,7 @@ lastmod: '2024-1-2T00:00:00Z'
 draft: false
 
 # Show this page in the Featured widget?
-featured: false
+featured: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
