@@ -9,10 +9,10 @@ summary: List of talks and posters at various international conferences.
 projects: []
 
 # Date published
-date: ''
+date: '2024-01-02'
 
 # Date updated
-lastmod: ''
+lastmod: '2024-01-02'
 
 # Is this an unpublished draft?
 draft: false
@@ -38,7 +38,7 @@ tags:
   - symposium
 
 categories:
-- talk
+- conf
     
 ---
 
