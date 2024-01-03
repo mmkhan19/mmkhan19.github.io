@@ -205,7 +205,25 @@ sections:
           date_start: '2022-06-01'
           date_end: '2022-06-01'
           description: |2-
-            * Developed the R module for machine learning using gene expression data for 10+ students
+            * Developed the R module for machine learning using gene expression data for 10+ students.
+        - title: Teaching Assistant for 10CS842 Software Testing
+          company: CMR Institute of Technology
+          company_url: ''
+          company_logo: cmrit
+          location: Bangalore, India
+          date_start: '2014-01-01'
+          date_end: '2014-05-31'
+          description: |2-
+            * Assisted in course grading, tutoring, and logistics for 50+ students.
+        - title: Teaching Assistant for 10CS72 Embedded Computing Systems
+          company: CMR Institute of Technology
+          company_url: ''
+          company_logo: cmrit
+          location: Bangalore, India
+          date_start: '2013-06-01'
+          date_end: '2013-12-31'
+          description: |2-
+            * Assisted in course grading, tutoring, and logistics for 50+ students
         - title: Basic Sciences Mentor
           company: Self
           company_url: ''
