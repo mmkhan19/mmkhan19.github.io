@@ -380,9 +380,9 @@ sections:
       filters:
         folders:
           - conf
-        author: ""
-        category: ""
-        tag: ""
+        author: admin
+        category: talk
+        tag: posters
         exclude_featured: false
         exclude_future: false
         exclude_past: false
