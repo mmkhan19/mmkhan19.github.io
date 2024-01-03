@@ -3,11 +3,11 @@
 title: 
 
 # Name pronunciation (optional)
-name_pronunciation: M. Muzamil Khan (He/Him, &#x23; FirstGen)
+name_pronunciation: M. Muzamil Khan (He/Him; %23FirstGen)
 
 # Full name (for SEO)
 first_name: M. Muzamil 
-last_name: Khan (He/Him, &#x23; FirstGen)
+last_name: Khan (He/Him)
 
 # Status emoji
 status:
