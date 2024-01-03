@@ -32,10 +32,11 @@ authors:
   - admin
 
 tags:
-  - Academic
+  - posters
 
 categories:
-  - Demo
+  - talk
+    
 ---
 
 
