@@ -3,7 +3,7 @@
 title: 
 
 # Name pronunciation (optional)
-name_pronunciation: M. Muzamil Khan
+name_pronunciation: M. Muzamil Khan <br/>(He/Him &nbsp;&nbsp; &#35;FirstGen)
 
 # Full name (for SEO)
 first_name: M. Muzamil 
