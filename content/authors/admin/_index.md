@@ -7,7 +7,7 @@ name_pronunciation: M. Muzamil Khan
 
 # Full name (for SEO)
 first_name: M. Muzamil 
-last_name: Khan
+last_name: Khan (FirstGen 👨🏽‍🔬🧬 DataVizard 📈)
 
 # Status emoji
 status:
@@ -82,4 +82,4 @@ social:
 highlight_name: true
 ---
 <center><h4 style="font-family:arial;">Using computers to cure human diseases </h4></center><left><p style="font-family:courier;color:green">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;one line of code at a time!<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</p></h4></left>
-I am a fifth-year PhD candidate in the <a href = "https://www.bu.edu/bioinformatics"> Bioinformatics Graduate Program at BU </a> working with <a href = "https://www.bumc.bu.edu/compbiomed/labs/monti/"> Dr. Stefano Monti </a> on multi-modal data analysis and integration using various 'omics' data in the context of oncology specifically oral and lung malignancies. My projects include (i) characterization of oral pre-malignant lesions (PML) with total transcriptomics sequencing (host+microbial), (ii) drug treatment to murine oral tumors with single-cell profiling, and (iii) gene editing in murine lung tumors. I also enjoy developing toolkits for quick and easy downstream analysis.
+I am a fifth-year PhD candidate in the <a href = "https://www.bu.edu/bioinformatics"> Bioinformatics Graduate Program at BU </a> working with <a href = "https://www.bumc.bu.edu/compbiomed/labs/monti/"> Dr. Stefano Monti </a> on multi-modal data analysis and integration using various 'omics' data in the context of oncology specifically oral and lung malignancies. I have experience in  human inflammatory diseases and it's murine models. I enjoy painting and cooking in my free time.
