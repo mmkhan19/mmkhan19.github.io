@@ -3,7 +3,8 @@
 title: 
 
 # Name pronunciation (optional)
-name_pronunciation: M. Muzamil Khan                   (FirstGen 👨🏽‍🔬🧬 DataVizard 📈)
+name_pronunciation: M. Muzamil Khan
+(FirstGen 👨🏽‍🔬🧬 DataVizard 📈)
 
 # Full name (for SEO)
 first_name: M. Muzamil 
@@ -17,7 +18,8 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate, Bioinformatics
+role: (FirstGen 👨🏽‍🔬🧬 DataVizard 📈)
+PhD Candidate, Bioinformatics
 
 # Organizations/Affiliations to show in About widget
 organizations:
