@@ -3,7 +3,7 @@
 title: 
 
 # Name pronunciation (optional)
-name_pronunciation: M. Muzamil Khan (He/Him, FirstGen 👨🏽‍🔬🧬, DataVizard 📈)
+name_pronunciation: Mohammed Muzamil Khan (He/Him, FirstGen 👨🏽‍🔬🧬, DataVizard 📈)
 
 # Full name (for SEO)
 first_name: M. Muzamil 
