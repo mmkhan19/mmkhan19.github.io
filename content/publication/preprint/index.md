@@ -1,7 +1,8 @@
 ---
 title: "singleCellTK: Interactive analysis of single cell RNA-seq data"
 authors:
-- admin
+- Muzamil Khan
+- et al
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
@@ -28,15 +29,15 @@ featured: false
 
 links:
 - name: Github
-  url: 'https://github.com/mmkhan19/singleCellTK'
-url_pdf: ''
+#url: 'https://github.com/mmkhan19/singleCellTK'
+#url_pdf: ''
 url_code: 'https://github.com/mmkhan19/singleCellTK'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+#url_dataset: ''
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
