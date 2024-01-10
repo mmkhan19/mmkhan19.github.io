@@ -1,7 +1,7 @@
 ---
 title: "Total RNA sequencing reveals gene expression and microbial alterations shared by oral pre-malignant lesions and cancer"
 authors:
-- admin
+- Muzamil Khan
 - et al
 #author_notes:
 #- "Equal contribution"
