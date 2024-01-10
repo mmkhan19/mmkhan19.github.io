@@ -29,7 +29,7 @@ summary: A genotypic association study of APOE with CTE.
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 name: JAMA Neurology
