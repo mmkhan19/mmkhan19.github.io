@@ -31,7 +31,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 A total transcriptomic approach to profile human and microbial transcripts in the characterization of pre-malignant lesions compared to oral squamous carcinoma (cancer/tumor) and normal (control). Built a cross-talk model to link significant human pathway activity to microbial abundance. Applied various ML approaches such as Random Forest for imputing missing smoking labels, and PCA/UMAP for dimensionality reduction.
