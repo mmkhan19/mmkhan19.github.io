@@ -31,7 +31,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 A single-cell study to discover cellular identities of murine oral tumors treated with a pharmacological blockade of Wnt/b-cat/CBP signaling complex induced via tobacco-associated carcinogen. A large dataset with 50K+ cells with information on cellular sub-types, programs, and dynamics to study onco-phenotypes. Manuscript in progress.
