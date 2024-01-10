@@ -1,7 +1,8 @@
 ---
 title: "Advances in spatial transcriptomic data analysis"
 authors:
-- admin
+- Ruben Dries
+- including Muzamil Khan
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
@@ -28,7 +29,7 @@ summary: A review of computational frameworks available for spatial-omic process
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 name: Genome Research
