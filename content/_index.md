@@ -62,7 +62,7 @@ sections:
           date_start: '2020-06-01'
           date_end: ''
           description: |2-
-              * Led five data-intensive research projects to completion by publishing four publications in high-impact journals.
+              * Led five data-intensive research projects to completion by publishing four peer-reviewed papers in high-impact journals.
         - title: Scientific Programmer @<u><a href = https://www.bu.edu/hic/profile/evan-johnson/>Johnson Lab </a></u>
           company: Boston University Chobanian & Avedisian School of Medicine
           company_url: ''
@@ -143,7 +143,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation
