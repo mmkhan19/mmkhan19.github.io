@@ -30,8 +30,9 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-<u>Multiple projects:</u>
+<u>Multiple projects in this area:</u>
 <ul> 
   <li>Association of APOE genotype with CTE</li>
   <li>Pleiotropy analysis of key driver genes in CTE (on hold)</li>
 </ul>
+
