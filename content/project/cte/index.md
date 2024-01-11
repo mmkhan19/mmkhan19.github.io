@@ -14,7 +14,6 @@ image:
   caption: 'BU CTE'
   focal_point: Smart
   
-
 links:
   - icon: pubmed
     icon_pack: ai
@@ -32,7 +31,6 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-
 <u>Multiple projects:</u>
 <ul> 
   <li>Association of APOE genotype with CTE</li>
