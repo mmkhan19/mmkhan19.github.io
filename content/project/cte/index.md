@@ -31,7 +31,7 @@ url_video: ''
 # slides: example
 ---
 Worked with <a href="https://www.bu.edu/cte/about/leadership/jesse-mez-m-d/">Dr. Jesse Mex </a> at the BU CTE center on multiple projects in this area and presented at several international conferences (see list in 'Conference Pres.' sub-page).<br/>
-<u List of Projects: </u>
+<u> List of Projects: </u>
 <ul> 
   <li>Association of APOE genotype with CTE</li>
   <li>Pleiotropy analysis of key driver genes in CTE (on hold)</li>
