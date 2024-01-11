@@ -32,10 +32,9 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-
+Worked with <a href="https://www.drieslab.com/">Dr. Ruben Dries</a> on various projects and a publication. This paper has gained international recognition and has been cited 100+ times in two years!
 <u>Multiple projects:</u>
 <ul> 
-  <li>A review paper on computational frameworks for spatial-omics data</li>
-  <li>ML framework for Ligand-Receptor interactions to identify spatial neighborhoods</li>
+  <li>ML framework for ligand-receptor interactions to identify communicating neighborhoods spatially.</li>
   <li>Sub-cellular networks for gene transcript localization</li>
 </ul>
