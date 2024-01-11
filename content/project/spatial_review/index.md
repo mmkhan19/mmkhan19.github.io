@@ -32,7 +32,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-Worked with <a href="https://www.drieslab.com/">Dr. Ruben Dries</a> on various projects and a publication. This paper has gained international recognition and has been cited 100+ times in two years!
+Worked with <a href="https://www.drieslab.com/">Dr. Ruben Dries</a> on various projects and a publication. This paper has gained international recognition and has been cited 100+ times in two years! <br/>
 <u>Multiple projects:</u>
 <ul> 
   <li>ML framework for ligand-receptor interactions to identify communicating neighborhoods spatially.</li>
