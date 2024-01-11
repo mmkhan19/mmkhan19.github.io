@@ -1,4 +1,3 @@
-
 ---
 title: Chronic Traumatic Encephelopathy
 summary: Repeated head injuries to the brain region in contact sports individuals.
