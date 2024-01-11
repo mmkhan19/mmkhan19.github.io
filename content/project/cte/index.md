@@ -30,7 +30,8 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-<u>Multiple projects in this area:</u>
+Worked with <a href="https://www.bu.edu/cte/about/leadership/jesse-mez-m-d/">Dr. Jesse Mex </a> at the BU CTE center on multiple projects in this area and presented at a couple of international conferences (see list in Conference Pres. sub-page.
+<u List of Projects: </u>
 <ul> 
   <li>Association of APOE genotype with CTE</li>
   <li>Pleiotropy analysis of key driver genes in CTE (on hold)</li>
