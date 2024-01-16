@@ -16,9 +16,9 @@ main:
   - name: Conference Pres.
     url: '#conf'
     weight: 40
-  - name: Skills
-    url: '#skills'
-    weight: 50
+#  - name: Skills
+#    url: '#skills'
+#    weight: 50
   - name: Teaching
     url: '#teach'
     weight: 60
