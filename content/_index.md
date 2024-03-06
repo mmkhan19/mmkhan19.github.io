@@ -256,9 +256,9 @@ sections:
           date_end: ''
           description: |2-
             * Active member of supporting student-led initiatives for the betterment of grad-life experience.
-            * Activities:
-              (i) panel member for ex-MS current PhD students in the program graduate application and misc. - attended by 20+ MS students
-              (ii) helped the 2021 cohort of 6+ students in preparing for their PhD candidacy (qualifying exams)
+            * Activities: <br/>
+              (i) panelist for current MS students spotlighting PhD experience at BU - attended by 20+ MS students <br/>
+              (ii) helped the 2021 cohort of 6+ students in preparing for their PhD candidacy (qualifying exams) <br/>
               (iii) open house mentor for PhD interviews
         - title: Student Mentor
           company: Boston University 
@@ -268,7 +268,7 @@ sections:
           date_start: '2018-06-01'
           date_end: ''
           description: |2-
-            * Active member in supporting incoming graduate students to help with orientation, course guidance, and job search.
+            * Active member in supporting incoming graduate students to help with orientation, course guidance, and job search. <br/>
             * Accomplishment: My mentee joined our MS program, completed it in 1 year, and now works at Moderna as a bioinformatician!
         - title: Bioinformatics Graduate Program Recruiter
           company: Boston University 
