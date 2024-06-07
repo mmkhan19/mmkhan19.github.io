@@ -237,6 +237,15 @@ sections:
           - vol
         featured_only: false
       items:
+        - title: Peer Reviewer
+          company: ''
+          company_url: ''
+          company_logo: ''
+          location: Boston, USA
+          date_start: '2021-01-01'
+          date_end: ''
+          description: |2-
+            * Peer reviewer of several journal articles, including Human Genomics, Frontiers in Cellular and Infection Microbiology, and Bioinformatics Advances.
         - title: Organizing Committee for Section's DEIA Initiatives
           company: Boston University 
           company_url: ''
