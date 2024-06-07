@@ -60,7 +60,7 @@ sections:
           company_logo: bu
           location: Boston, USA
           date_start: '2020-06-01'
-          date_end: ''
+          date_end: '2024-05-19'
           description: |2-
               * Led five data-intensive research projects to completion by publishing four peer-reviewed papers in high-impact journals.
         - title: Scientific Programmer @<u><a href = https://www.bu.edu/hic/profile/evan-johnson/>Johnson Lab </a></u>
