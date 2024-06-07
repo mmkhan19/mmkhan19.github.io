@@ -38,7 +38,7 @@ education:
   courses:
     - course: PhD in Bioinformatics
       institution: Boston University
-      year: ''
+      year: 2024
     - course: MS in Bioinformatics
       institution: Boston University
       year: 2019
@@ -83,4 +83,4 @@ highlight_name: true
 ---
 <center><h4 style="font-family:arial;">I use computers to cure human diseases </h4></center><left><p style="font-family:courier;color:green">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;one line of code at a time!<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</p></h4></left>
 
- <div style="font-family:arial;">I am a recent Ph.D. graduate from the <a href = "https://www.bu.edu/bioinformatics"> Bioinformatics Graduate Program at BU. </a> I worked under <a href = "https://www.bumc.bu.edu/compbiomed/labs/monti/"> Dr. Stefano Monti's supervision </a> on multi-modal data analysis and integration using various 'omics' data in the context of oncology specifically oral and lung malignancies in identifying pre-/post-targets for (pre-)clinical applications with drug delivery via small molecule inhibitors & gene and cell editing strategies. I use statistics and ML/AI approaches to derive insights from high-dimensional datasets. I enjoy painting and cooking in my free time!</div>
+ <div style="font-family:arial;">I am a recent Ph.D. graduate from the <a href = "https://www.bu.edu/bioinformatics"> Bioinformatics Graduate Program at BU. </a> I worked under <a href = "https://www.bumc.bu.edu/compbiomed/labs/monti/"> Dr. Stefano Monti's </a> supervision on multi-modal data analysis and integration using various 'omics' data in the context of oncology specifically oral and lung malignancies in identifying pre-/post-targets for (pre-)clinical applications with drug delivery via small molecule inhibitors & gene and cell editing strategies. I use statistics and ML/AI approaches to derive insights from high-dimensional datasets. I enjoy painting and cooking in my free time!</div>
