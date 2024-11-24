@@ -54,7 +54,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-          - title: Innovation Postdoctoral Fellow 
+        - title: Innovation Postdoctoral Fellow 
             company: Novartis Biomedica Research
             company_url: ''
             company_logo: nvs
@@ -63,7 +63,7 @@ sections:
             date_end: ''
             description: |2-
                 * Working with clinical trial data to understand the pharmacodynamic effects of Novartis' autoimmune drug portfolio.
-           - title: Postdoctoral Associate @<u><a href = https://www.bumc.bu.edu/compbiomed/labs/monti/>Monti Lab </a></u>
+        - title: Postdoctoral Associate @<u><a href = https://www.bumc.bu.edu/compbiomed/labs/monti/>Monti Lab </a></u>
             company: Boston University Chobanian & Avedisian School of Medicine
             company_url: ''
             company_logo: bu
@@ -73,7 +73,7 @@ sections:
             description: |2-
                 * Led data-intensive research projects to completion (manuscript in progress)
                 * Trained a graduate student to take over current projects on pre-clinical murine scRNAseq datasets.
-          - title: Graduate Student Researcher @<u><a href = https://www.bumc.bu.edu/compbiomed/labs/monti/>Monti Lab </a></u>
+        - title: Graduate Student Researcher @<u><a href = https://www.bumc.bu.edu/compbiomed/labs/monti/>Monti Lab </a></u>
             company: Boston University Chobanian & Avedisian School of Medicine
             company_url: ''
             company_logo: bu
@@ -82,7 +82,7 @@ sections:
             date_end: '2024-05-19'
             description: |2-
                 * Led five data-intensive research projects to completion by publishing four peer-reviewed papers in high-impact journals.
-          - title: Scientific Programmer @<u><a href = https://www.bu.edu/hic/profile/evan-johnson/>Johnson Lab </a></u>
+        - title: Scientific Programmer @<u><a href = https://www.bu.edu/hic/profile/evan-johnson/>Johnson Lab </a></u>
             company: Boston University Chobanian & Avedisian School of Medicine
             company_url: ''
             company_logo: bu
@@ -92,7 +92,7 @@ sections:
             description: |2-
                 * Co-developed <i> sctk </i>: a single-cell analysis toolkit with a user interface to ease downstream analyses.
                 * Experienced in code release management and maintenance specifically for Bioconductor R packages
-          - title: Software Analyst
+        - title: Software Analyst
             company: Accenture Services Pvt Ltd.
             company_url: ''
             company_logo: accenture_logo
