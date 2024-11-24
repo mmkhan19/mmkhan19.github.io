@@ -55,7 +55,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Innovation Postdoctoral Fellow 
-          company: Novartis Biomedica Research
+          company: Novartis Biomedical Research
           company_url: ''
           company_logo: nvs
           location: Boston, USA
