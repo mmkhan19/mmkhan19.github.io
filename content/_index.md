@@ -54,7 +54,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-         - title: Innovation Postdoctoral Fellow 
+          - title: Innovation Postdoctoral Fellow 
             company: Novartis Biomedica Research
             company_url: ''
             company_logo: nvs
