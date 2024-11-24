@@ -55,36 +55,36 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Innovation Postdoctoral Fellow 
-            company: Novartis Biomedica Research
-            company_url: ''
-            company_logo: nvs
-            location: Boston, USA
-            date_start: '2024-10-21'
-            date_end: ''
-            description: |2-
-                * Working with clinical trial data to understand the pharmacodynamic effects of Novartis' autoimmune drug portfolio.
+          company: Novartis Biomedica Research
+          company_url: ''
+          company_logo: nvs
+          location: Boston, USA
+          date_start: '2024-10-21'
+          date_end: ''
+          description: |2-
+              * Working with clinical trial data to understand the pharmacodynamic effects of Novartis' autoimmune drug portfolio.
         - title: Postdoctoral Associate @<u><a href = https://www.bumc.bu.edu/compbiomed/labs/monti/>Monti Lab </a></u>
-            company: Boston University Chobanian & Avedisian School of Medicine
-            company_url: ''
-            company_logo: bu
-            location: Boston, USA
-            date_start: '2024-07-19'
-            date_end: '2024-10-18'
-            description: |2-
-                * Led data-intensive research projects to completion (manuscript in progress)
-                * Trained a graduate student to take over current projects on pre-clinical murine scRNAseq datasets.
+          company: Boston University Chobanian & Avedisian School of Medicine
+          company_url: ''
+          company_logo: bu
+          location: Boston, USA
+          date_start: '2024-07-19'
+          date_end: '2024-10-18'
+          description: |2-
+              * Led data-intensive research projects to completion (manuscript in progress)
+              * Trained a graduate student to take over current projects on pre-clinical murine scRNAseq datasets.
         - title: Graduate Student Researcher @<u><a href = https://www.bumc.bu.edu/compbiomed/labs/monti/>Monti Lab </a></u>
-            company: Boston University Chobanian & Avedisian School of Medicine
-            company_url: ''
-            company_logo: bu
-            location: Boston, USA
-            date_start: '2020-06-01'
-            date_end: '2024-05-19'
-            description: |2-
-                * Led five data-intensive research projects to completion by publishing four peer-reviewed papers in high-impact journals.
+          company: Boston University Chobanian & Avedisian School of Medicine
+          company_url: ''
+          company_logo: bu
+          location: Boston, USA
+          date_start: '2020-06-01'
+          date_end: '2024-05-19'
+          description: |2-
+              * Led five data-intensive research projects to completion by publishing four peer-reviewed papers in high-impact journals.
         - title: Scientific Programmer @<u><a href = https://www.bu.edu/hic/profile/evan-johnson/>Johnson Lab </a></u>
-            company: Boston University Chobanian & Avedisian School of Medicine
-            company_url: ''
+          company: Boston University Chobanian & Avedisian School of Medicine
+          company_url: ''
             company_logo: bu
             location: Boston, USA
             date_start: '2018-06-01'
